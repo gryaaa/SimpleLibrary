@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryPractice.Program">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryPractice.Library">
+    <Position X="1.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAgAAgAAAAAAAAQAAAAAIAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Books" />
+      <Property Name="Readers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="LibraryPractice.Book">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAABAAQAAAAgEoAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryPractice.Reader">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAQAAAAAAAAQACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="LikedBooks" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="LibraryPractice.Infrastructure">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
